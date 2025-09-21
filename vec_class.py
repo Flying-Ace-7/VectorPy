@@ -27,5 +27,4 @@ class vec:
         ax.grid(True)
         ax.set_aspect('equal', adjustable='box')
         plt.show()
-a=vec(3,4)
-a.selfplot_2d()
+    
