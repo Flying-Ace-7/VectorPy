@@ -1,5 +1,6 @@
 # VectorPy
-> [!tldr] What is VectorPy?
+> [!tldr]
+> What is VectorPy?
 > A Python Module to handle vectors
 
 ## Usage of VectorPy
